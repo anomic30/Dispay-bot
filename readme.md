@@ -55,7 +55,7 @@ json-server --watch payoutResponse.json
 
 There's still a lot more features to be add in this bot, you are welcome to contribute by submitting a Pull Request to the repository. 
 
-## Contrubutors
+## Contributors
 
 [Anom Chakravorty](https://github.com/anomic30)
 <br/>
