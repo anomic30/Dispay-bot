@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": "MFDY5",
+    "from": "Frossttyyy#7598",
+    "entity": "payout_link",
+    "contact_id": "cont_00000000000001",
+    "contact": {
+      "name": "Maverick3008#6682",
+      "email": "Maverick3008@gmail.com"
+    },
+    "fund_account_id": null,
+    "purpose": "payout",
+    "status": "issued",
+    "amount": 3000,
+    "currency": "INR",
+    "description": "Payout link for Maverick3008#6682",
+    "attempt_count": 0,
+    "receipt": "Receipt No. 1",
+    "short_url": "https://razorpay-payout.netlify.app/",
+    "send_sms": true,
+    "send_email": true,
+    "cancelled_at": null,
+    "created_at": 1545383037,
+    "expire_by": 1545384058,
+    "expired_at": 1545384658
+  }
+}
