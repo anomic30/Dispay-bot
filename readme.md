@@ -3,7 +3,7 @@
 A simple discord bot that automates the process of p2p payments using Razorpay APIs. Dispay is the only bot you need to automate your payments in your discord community.
 
  ## Checkout our website to learn more!
-[www.dispay.com](https://dispay.netlify.app/)
+[dispay.netlify.app](https://dispay.netlify.app/)
 
 <img src="./website.png" width="400px">
 
