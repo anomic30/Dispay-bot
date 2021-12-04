@@ -61,4 +61,4 @@ There's still a lot more features to be add in this bot, you are welcome to cont
 <br/>
 [Aditya Mondal](https://github.com/Sneakad)
 <br/>
-[Tuhin Paul]()
+[Tuhin Paul](https://github.com/TheFrost060)
