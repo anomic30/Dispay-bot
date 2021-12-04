@@ -5,7 +5,10 @@ A simple discord bot that automates the process of p2p payments using Razorpay A
  ## Checkout our website to learn more!
 [dispay.netlify.app](https://dispay.netlify.app/)
 
-<img src="./website.png" width="400px">
+<img src="./website.png" width="600px">
+
+## Workflow of the bot
+<img src="./process.png" width="600px">
 
 
 ## Getting started
