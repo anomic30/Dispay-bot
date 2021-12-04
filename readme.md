@@ -25,6 +25,8 @@ cd dispay-bot/
 # Install the dependencies
 npm install
 ```
+### ⚠️ Important!
+In order to use this for your own purpose, you need to provide the Discord BOT Token, Razorpay API Key & Secret in the .env file
 
 ### Starting the application
 
